@@ -1,7 +1,7 @@
 import wallet from '../image/wallet.png'
 import metamask from '../image/metamask.svg'
 import Bitgo from '../image/bitgo.svg'
-import Coinbase from '../image/Coinbase.svg'
+import Coinbase from '../image/coinbase.svg'
 import trustwallet from '../image/trustwallet.svg'
 import exodus from '../image/exodus.svg'
 import { Header } from '../components/header'
