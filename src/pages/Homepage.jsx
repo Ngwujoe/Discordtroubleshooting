@@ -4,7 +4,7 @@ import Bitgo from '../image/bitgo.svg'
 import Coinbase from '../image/coinbase.svg'
 import trustwallet from '../image/trustwallet.svg'
 import exodus from '../image/exodus.svg'
-import { Header } from '../components/header'
+import { Header } from '../components/Header'
 import { Link } from "react-router-dom";
 
 
