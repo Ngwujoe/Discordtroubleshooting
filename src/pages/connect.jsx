@@ -18,7 +18,7 @@ import algorand from "../image/algorand.png";
 import Optimism from "../image/Optimism.png";
 import cardano from "../image/cardano.png";
 import cosmos from "../image/cosmos.jpg";
-import injective from "../image/injective.png";
+import injective from "../image/Injective.png";
 import crypto from "../image/crypto.png";
 
 function Connect() {
